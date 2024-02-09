@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DipakShah99
 - 👀 I’m interested in ...Learning New things
-- 🌱 I’m currently learning ...Cloud 
-- 💞️ I’m looking to collaborate on ...Cloud Solution Architect
+- 🌱 I’m currently learning ...DevOps
+- 💞️ I’m looking to collaborate on ...Cloud DevOps
 - 📫 How to reach me ...shahd0048@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
